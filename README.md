@@ -1,2 +1,0 @@
-# Ds-mini-project
-Team
